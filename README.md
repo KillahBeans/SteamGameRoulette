@@ -1,2 +1,3 @@
 # SteamGameRoulette
-A project I did in my spare time when I was taking my intro to programming Java class. This program goes through your the folder where your games are located in, ideally in the C:\Program Files (x86)\Steam\steamapps\common\, and chooses a game at random. 
+In the code, enter the full path of your Steam game installation directory.
+Ex. {Drive letter}\Program Files (x86)\Steam\steamapps\common\{Game name}
