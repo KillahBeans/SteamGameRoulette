@@ -1,4 +1,3 @@
-//Rafael Sudiyanto 
 //Created 6/3/2019
 //Last updated 8/8/2020
 
