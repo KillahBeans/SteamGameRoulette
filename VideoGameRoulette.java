@@ -37,7 +37,7 @@ public class VideoGameRoulette
     	System.out.println("-----------------------------------------------------------------");
         System.out.println("          You should play " + game + "!             ");
         System.out.println("-----------------------------------------------------------------");
-        System.out.println("press r");
+        System.out.println("Press 'r' to run the game or any button to end the program");
 
         Scanner scanRunGame = new Scanner(System.in);
         String runGame = scanRunGame.nextLine();
